@@ -1,0 +1,27 @@
+p
+{
+    background-color: blue;
+}
+
+h1,h2,h3,h4,h5,h6
+{
+    color: red;
+    font-weight: bold;
+
+}
+
+img
+{
+    width: 200px;
+}
+
+button
+{
+    background-color: green;
+    color: white;
+}
+
+.box
+{
+    border: 2px solid;
+}
